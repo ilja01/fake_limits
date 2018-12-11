@@ -1,3 +1,4 @@
+#test comment from Krii
 if (paid_loans_count==0) {
 	if (score<300) limit=200
 	else if (score<500) limit=500
